@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ConstrainLayoutApplication</string>
+    <string name="dummy_photos">Sample</string>
+    <string name="dummy_value">Sample Title</string>
+    <string name="stock">Sample description</string>
+    <string name="content_text">Sample text</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="content_specs_display">Specs Display</string>
+    <string name="size">Size</string>
+    <string name="content_specs_size">Spec Size</string>
+    <string name="battery">Battery</string>
+    <string name="content_specs_battery">Spec Battery</string>
+    <string name="seller">Seller</string>
+    <string name="my_name">Name</string>
+    <string name="buy">Buy</string>
+</resources>
